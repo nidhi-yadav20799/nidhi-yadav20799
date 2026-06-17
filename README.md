@@ -8,7 +8,7 @@ Aspiring Data Scientist with hands-on experience in Machine Learning, Explorator
 
 ### 🛠️ Skills
 
-**Languages & Tools:** Python · SQL  . R 
+**Languages & Tools:** Python · SQL  
 **Libraries:** Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn  
 **ML/Analytics:** Classification Models · RFM & Customer Segmentation · Churn Prediction · Recommendation Systems  
 **Visualization & Deployment:** Power BI · Streamlit · Jupyter Notebook
