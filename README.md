@@ -1,6 +1,6 @@
 ### Hi, I'm Nidhi 👋
 
-Aspiring Data Scientist with hands-on experience in Machine Learning, Exploratory Data Analysis, and Predictive Modeling. I enjoy turning raw datasets into clear, actionable insights — and building dashboards/apps that make those insights usable.
+Data Science Graduate with hands-on experience in Machine Learning, Exploratory Data Analysis, and Predictive Modeling. I enjoy turning raw datasets into clear, actionable insights — and building dashboards/apps that make those insights usable.
 
 📍 Ahmedabad, India
 
